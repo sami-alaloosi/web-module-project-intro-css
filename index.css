@@ -1,0 +1,120 @@
+* {
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    /* border: red 2px solid; */
+}
+
+html {
+  font-size: 62.5%;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.navigation nav a {
+    display: inline-block;
+    margin: 2rem 0;
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    
+    border-radius: 1.4rem;
+    padding: 1.7rem;
+    width: 1.5rem;
+
+}
+#nav-1 {
+    background-color: #FF764E;
+    margin-left: 29rem;
+    margin-right: 8rem;
+    padding: 1.2rem;
+    width: 17rem;
+    text-align: center;
+}
+
+#nav-2 {
+    background-color: #5ED3EB;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    padding: 1.2rem;
+    width: 17rem;
+    text-align: center;
+}
+
+#nav-3 {
+    background-color: #FFCD69;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    padding: 1.2rem;
+    width: 17rem;
+    text-align: center;
+}
+
+.yosemit {
+    display: inline-block;
+    margin-left: ;
+    
+}
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+
+    font-size: 4rem;
+  
+    margin-right: 0px;
+}
+
+#mount-top {
+    width: 20rem;
+    height: auto;
+    border-radius: 50%;
+    margin: 3rem;
+}
+
+.main-text{
+ text-align: center;
+ background-color: #DDB9A3;
+ color: white;
+ margin-bottom: 2rem;
+}
+
+.main-text p {
+    
+    padding: .8rem;
+
+}
+
+.fire-rv {
+  display: block;
+  width: 7rem;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+
+}
+
+.fire-rv-text {
+    text-align: center;
+    width: 17rem;
+    height: 15rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-color: #F9E7DC;
+}
+
+#footer-img {
+    height: 25rem; 
+    width: 100%; 
+    object-fit: cover;
+    
+
+}
+
